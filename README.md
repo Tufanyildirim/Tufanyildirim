@@ -19,3 +19,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,pytorch,opencv,linux,git,vscode" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=freecad&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge" />
+</p>
