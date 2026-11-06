@@ -19,9 +19,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,pytorch,opencv,linux,git,vscode" />
 </p>
-
-### 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Tufanyildirim&theme=github-dark-blue&hide_border=true" height="160" />
-</p>
