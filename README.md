@@ -1,37 +1,28 @@
-<h1 align="center">Merhaba, ben Tufan 👋</h1>
+<h1 align="center">Merhaba 👋, ben Tufan Yıldırım</h1>
+<h3 align="center">Mekatronik Mühendisi</h3>
 
-<h3 align="center">Mekatronik Mühendisi · Robotik · Gömülü Sistemler · Simülasyon</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Robotik;G%C3%B6m%C3%BCl%C3%BC+Sistemler;Kontrol+ve+Sim%C3%BClasyon;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme" alt="Typing SVG" />
+</p>
 
 ---
 
-### Ne yapıyorum
+### 🙋‍♂️ Hakkımda
 
-- **Rehabilitasyon robotları** — dinamik model, kontrol tasarımı, Simscape simülasyonu
-- **Yardımcı robotlar** — yemek yedirme robotu: yemek tanıma (CNN), ağız takibi, yörünge planlama
-- **Gömülü donanım** — Arduino tabanlı cihazlar: PCB tasarımı (KiCad), firmware, donanım güvenlik katmanları
-- **Görüntü işleme** — videodan hareket analizi
+- 🔭 Rehabilitasyon ve yardımcı robotlar üzerinde çalışıyorum
+- 🌱 Robot kontrolü, simülasyon ve makine öğrenmesi öğreniyorum
+- ⚡ Donanımdan yazılıma uçtan uca cihaz geliştiriyorum
+- 📍 Türkiye
 
-### Araçlar
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,matlab,arduino,cpp" height="48" />
-</p>
+### 🛠️ Diller ve Araçlar
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Simscape-E16737?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CoppeliaSim-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,pytorch,opencv,linux,git,vscode" />
 </p>
 
-### Öne çıkan projeler
+### 📊 GitHub İstatistikleri
 
-| Proje | Kısaca |
-|---|---|
-| Yemek yedirme robotu | Simülasyon + yemek tanıma + kuintik/spline yörünge |
-| Beyazlatma LED cihazı | PWM kontrollü, ısıl ve donanımsal güvenlikli LED cihazı |
-
-*Proje repoları hazırlanıyor.*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tufanyildirim&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tufanyildirim&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
