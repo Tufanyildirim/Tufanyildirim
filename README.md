@@ -11,13 +11,14 @@
 
 - 🔭 Rehabilitasyon ve yardımcı robotlar üzerinde çalışıyorum
 - 🌱 Robot kontrolü, simülasyon ve makine öğrenmesi öğreniyorum
-- ⚡ Donanımdan yazılıma uçtan uca cihaz geliştiriyorum
+- ⚡ Mekanik tasarım, elektronik ve kontrolü bir arada yürütüyorum
+- 🤖 Yazılım tarafında yapay zeka araçlarıyla birlikte çalışıyorum
 - 📍 Türkiye
 
 ### 🛠️ Diller ve Araçlar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,pytorch,opencv,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=matlab,arduino,py" />
 </p>
 
 <p align="left">
